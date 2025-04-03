@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <p>Welcome to Nhat Nguyen site.</p>
     </div>
   );
 }
